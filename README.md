@@ -4,7 +4,7 @@ abreast
 A first effort toward the reproduction of work done here: http://earlybreast.becklab.org/images
 
 Needs:
- * Validation of the segmentation wrt. to those avaialable online
+ * Validation of the segmentation wrt. to those available online
  * Other patch metric computations (easy)
  * ML downstream processing
  
