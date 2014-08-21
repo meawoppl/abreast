@@ -1,7 +1,7 @@
 abreast
 =======
 
-A first effor toward the reproduction of work done here: http://earlybreast.becklab.org/images
+A first effort toward the reproduction of work done here: http://earlybreast.becklab.org/images
 
 Needs:
  * Validation of the segmentation wrt. to those avaialable online
